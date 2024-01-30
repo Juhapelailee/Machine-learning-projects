@@ -1,3 +1,3 @@
 Juha Närhi
 
-Projects are made in school.
+Projects were made in school.
