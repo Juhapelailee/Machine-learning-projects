@@ -1,5 +1,6 @@
-If you don't have pip and matplotlib installed:
-Go to your cmd and type these two commands:
+If you don't have pip and matplotlib installed, go to your cmd and type these two commands
 
 python -m ensurepip --default-pip
 pip install matplotlib
+
+Another alternative is to load matplotlib directly from the IDE that you are using.
