@@ -1,0 +1,7 @@
+If you don't have pip and gym and numpy installed, go to your cmd and type these two commands
+
+python -m ensurepip --default-pip
+pip install gym
+pip install numpy
+
+Another alternative is to load gym and numpy directly from the IDE that you are using.
