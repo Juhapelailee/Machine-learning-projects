@@ -1,7 +1,8 @@
 """
+READ "REQUIREMENTS FOR LINEAR FITTING" first
 Juha Närhi DATA:ML.100 Linear solver
 Click the left mouse button as many times as you want and then click the right button.
-Then linear fit is plotted
+Then linear fit is plotted.
 """
 import matplotlib.pyplot as plt
 import numpy as np
