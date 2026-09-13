@@ -1,4 +1,5 @@
 Juha Närhi
+
 These are small ML projects that were done during the DATA.ML.100 - course in Tampere University.
 
 ## Setup
